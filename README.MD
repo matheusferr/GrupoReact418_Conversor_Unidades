@@ -2,6 +2,7 @@
 
 ### Aplicativo de conversão de unidades
 Código feito por [Gabriel Bio Guerra](https://github.com/Gabrie-Bio-Guerra) e [Matheus Ferreira da Costa](https://github.com/matheusferr).
+
 Documentação feita por Isabella Felix.
 
 ## Tabela de conteúdo

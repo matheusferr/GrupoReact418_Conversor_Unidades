@@ -42,7 +42,7 @@ A aplicação atualizará automaticamente quando você editar o código.
 
 Compila a versão debug e instala nos dipositivos android conectados via **ADB**. Caso não encontre nenhum dispositivo, o emulador será iniciado.
 
-### `yarn android`
+### `yarn ios`
 
 Compila a versão debug e instala no emulador iOS.
 
